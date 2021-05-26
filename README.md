@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Mark! 👋
+I'm a support technician from Edinburgh, Scotland. I work on fixing people's problems, and automating the processes in my workplace.
+
+I work in a wide variety of technologies, with my strongest languages being Rust and Powershell. (But don't expect me to be good at English.)
+
+Currently studying for:
+- CompTIA Network+
+- CompTIA Security+
+- M365 Security Administrator Associate
 
 <!--
 **mrhrobertson/mrhrobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
